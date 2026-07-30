@@ -15,7 +15,7 @@ int main() {
         cout << "1. Create an Order" << endl;
         cout << "2. Update Order" << endl;
         cout << "3. Update Address" << endl;
-        cout << "4. View Saved Reciepts" << endl;
+        cout << "4. View Saved Receipts" << endl;
         cout << "5. Exit" << endl;
         cout << "Choose Option: " << endl;
         cin >> option;
