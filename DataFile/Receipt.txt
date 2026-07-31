@@ -1,1 +1,28 @@
+//The implementation file will create a "Receipt.txt" for storage. This is an example of what the receipts saved would look like
 
+7
+1000 Summer 124_Sun_Lane 1200 55.74 5.71335 61.4534 5
+Oxtail_Pho 23.5 1 550
+Bottled_Water 1.5 1 0
+Spring_Rolls 10.75 1 120
+Banh_Flan 10 1 222
+Molten_Chocolate_Cake 9.99 1 1170
+1001 Candy 987_Sugar_Ave 800 15.74 1.61335 17.3533 3
+Steak_Fajitas 16.5 0 570
+French_Fries 5.75 1 365
+Molten_Chocolate_Cake 9.99 1 1170
+1002 Emily 246_Coffee_Ave 1100 18 1.845 19.845 2
+Bottled_Water 1.5 1 0
+Steak_Fajitas 16.5 1 570
+1003 Summer 137_Slushy_Ave 1300 22.25 2.28062 24.5306 2
+Steak_Fajitas 16.5 1 570
+French_Fries 5.75 1 365
+1004 Isabelle 598_Water_Ave 200 23.5 2.40875 25.9088 1
+Oxtail_Pho 23.5 1 550
+1005 Sally 945_Taco_St 1200 24.75 2.53687 27.2869 4
+Coca_Cola 2.5 1 140
+French_Fries 5.75 1 365
+Steak_Fajitas 16.5 1 570
+Molten_Chocolate_Cake 9.99 0 1170
+1006 Rika 385_Quiet_Lane 1200 9.99 1.02397 11.014 1
+Molten_Chocolate_Cake 9.99 1 1170
